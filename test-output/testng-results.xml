@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-24T17:13:45 IST" name="Default suite" finished-at="2022-01-24T17:13:45 IST" duration-ms="117">
+  <suite started-at="2022-01-24T17:55:32 IST" name="Default suite" finished-at="2022-01-24T17:55:32 IST" duration-ms="94">
     <groups>
     </groups>
-    <test started-at="2022-01-24T17:13:45 IST" name="Default test" finished-at="2022-01-24T17:13:45 IST" duration-ms="117">
+    <test started-at="2022-01-24T17:55:32 IST" name="Default test" finished-at="2022-01-24T17:55:32 IST" duration-ms="94">
       <class name="comcast.SDET29.Demo">
-        <test-method signature="Test()[pri:0, instance:comcast.SDET29.Demo@433d61fb]" started-at="2022-01-24T17:13:45 IST" name="Test" finished-at="2022-01-24T17:13:45 IST" duration-ms="22" status="PASS">
+        <test-method signature="Test()[pri:0, instance:comcast.SDET29.Demo@460d0a57]" started-at="2022-01-24T17:55:32 IST" name="Test" finished-at="2022-01-24T17:55:32 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
